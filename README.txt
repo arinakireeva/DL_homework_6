@@ -10,5 +10,5 @@ More information about the project is available on the project blog:
 http//blogs.oii.ox.ac.uk/vis/
 
 
-—сылка:
+VK graph:
 https://arinakireeva.github.io/DL_homework_6/
